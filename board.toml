@@ -84,7 +84,7 @@ text_offset = 0
 
 [payload]
 volume = "FUXIESP"
-size_mib = 192
+size_mib = 256
 loader = "firmware"
 title = "UniXNU"
 panic_screen = true
